@@ -1,0 +1,861 @@
+{
+ "date": "2026-09-16",
+ "products": {
+  "100846": {
+   "title": "Балеринка Matrix для плитки d20-94 мм",
+   "unit": "шт",
+   "price": 1053.0,
+   "price_gold": 1022.0,
+   "url": "https://moscow.petrovich.ru/product/100846/",
+   "updated": "2026-09-16T09:45:07.731037+00:00"
+  },
+  "104462": {
+   "title": "Лезвие для ножа Hesler 18 мм прямое (10 шт.)",
+   "unit": "упак",
+   "price": 59.0,
+   "price_gold": 58.0,
+   "url": "https://moscow.petrovich.ru/product/104462/",
+   "updated": "2026-09-16T09:46:55.120928+00:00"
+  },
+  "104498": {
+   "title": "Лента малярная Unibob белая 50 мм 50 м (81646/28139)",
+   "unit": "шт",
+   "price": 359.0,
+   "price_gold": 349.0,
+   "url": "https://moscow.petrovich.ru/product/104498/",
+   "updated": "2026-09-16T09:50:07.262920+00:00"
+  },
+  "104702": {
+   "title": "Маркер перманентный Edding 370 черный грифель 1 мм",
+   "unit": "шт",
+   "price": 179.0,
+   "price_gold": 174.0,
+   "url": "https://moscow.petrovich.ru/product/104702/",
+   "updated": "2026-09-16T09:42:18.202991+00:00"
+  },
+  "105051": {
+   "title": "Напильник по металлу плоский Сибртех 200 мм",
+   "unit": "шт",
+   "price": 213.0,
+   "price_gold": 207.0,
+   "url": "https://moscow.petrovich.ru/product/105051/",
+   "updated": "2026-09-16T09:47:27.419281+00:00"
+  },
+  "105222": {
+   "title": "Нож строительный Hesler 18 мм с сегментированным лезвием стальной корпус",
+   "unit": "шт",
+   "price": 249.0,
+   "price_gold": 242.0,
+   "url": "https://moscow.petrovich.ru/product/105222/",
+   "updated": "2026-09-16T09:46:55.120928+00:00"
+  },
+  "105267": {
+   "title": "Обезжириватель Bitumast 0,35 кг/0,5 л",
+   "unit": "шт",
+   "price": 308.0,
+   "price_gold": 299.0,
+   "url": "https://moscow.petrovich.ru/product/105267/",
+   "updated": "2026-09-16T10:36:16.218985+00:00"
+  },
+  "105868": {
+   "title": "Пистолет для герметика стальной скелетный усиленный 310 мл Hesler",
+   "unit": "шт",
+   "price": 353.0,
+   "price_gold": 343.0,
+   "url": "https://moscow.petrovich.ru/product/105868/",
+   "updated": "2026-09-16T09:46:40.805680+00:00"
+  },
+  "107242": {
+   "title": "Саморезы универсальные 16x3,5 мм желтые (200 шт.)",
+   "unit": "упак",
+   "price": 137.0,
+   "price_gold": 133.0,
+   "url": "https://moscow.petrovich.ru/product/107242/",
+   "updated": "2026-09-16T09:56:39.726107+00:00"
+  },
+  "107255": {
+   "title": "Саморезы универсальные 30x4,0 мм желтые (200 шт.)",
+   "unit": "упак",
+   "price": 195.0,
+   "price_gold": 189.0,
+   "url": "https://moscow.petrovich.ru/product/107255/",
+   "updated": "2026-09-16T09:56:40.974740+00:00"
+  },
+  "107270": {
+   "title": "Саморезы универсальные 50x3,5 мм желтые (200 шт.)",
+   "unit": "упак",
+   "price": 256.0,
+   "price_gold": 249.0,
+   "url": "https://moscow.petrovich.ru/product/107270/",
+   "updated": "2026-09-16T09:56:39.726107+00:00"
+  },
+  "107333": {
+   "title": "Саморезы универсальные 70x5,0 мм оцинкованные (100 шт.)",
+   "unit": "упак",
+   "price": 359.0,
+   "price_gold": 349.0,
+   "url": "https://moscow.petrovich.ru/product/107333/",
+   "updated": "2026-09-16T09:56:39.726107+00:00"
+  },
+  "107975": {
+   "title": "Степлер строительный для скоб Hesler тип 53 металлический",
+   "unit": "шт",
+   "price": 1059.0,
+   "price_gold": 1028.0,
+   "url": "https://moscow.petrovich.ru/product/107975/",
+   "updated": "2026-09-16T09:46:45.430761+00:00"
+  },
+  "109016": {
+   "title": "Уровень магнитный Hesler 40 см 3 глазка",
+   "unit": "шт",
+   "price": 652.0,
+   "price_gold": 633.0,
+   "url": "https://moscow.petrovich.ru/product/109016/",
+   "updated": "2026-09-16T09:42:32.726400+00:00"
+  },
+  "126360": {
+   "title": "Мешок для мусора 120 л 700х1100 мм полиэтиленовый повышенной прочности (10 шт.)",
+   "unit": "упак",
+   "price": 350.0,
+   "price_gold": 340.0,
+   "url": "https://moscow.petrovich.ru/product/126360/",
+   "updated": "2026-09-16T09:50:04.458400+00:00"
+  },
+  "129500": {
+   "title": "Клемма на 5 проводов Wago 222-415 0,08-2,5 кв. мм с рычажками без пасты (5 шт.)",
+   "unit": "упак",
+   "price": 521.0,
+   "price_gold": 521.0,
+   "url": "https://moscow.petrovich.ru/product/129500/",
+   "updated": "2026-09-16T10:59:04.348870+00:00"
+  },
+  "129616": {
+   "title": "Лобзик электрический Makita JV0600K 650 Вт",
+   "unit": "шт",
+   "price": 13690.0,
+   "price_gold": 13690.0,
+   "url": "https://moscow.petrovich.ru/product/129616/",
+   "updated": "2026-09-16T09:51:35.832789+00:00"
+  },
+  "134038": {
+   "title": "Патрон для дрели Практика (031-006) бесключевой 1/2\" 13 мм с переходником SDS-plus",
+   "unit": "шт",
+   "price": 941.0,
+   "price_gold": 914.0,
+   "url": "https://moscow.petrovich.ru/product/134038/",
+   "updated": "2026-09-16T09:44:52.693709+00:00"
+  },
+  "134107": {
+   "title": "Ножовка по дереву Hesler 350 мм 7 зуб/дюйм крупный зуб",
+   "unit": "шт",
+   "price": 366.0,
+   "price_gold": 355.0,
+   "url": "https://moscow.petrovich.ru/product/134107/",
+   "updated": "2026-09-16T09:47:02.757190+00:00"
+  },
+  "139026": {
+   "title": "Дюбель распорный Hard-Fix 6x30 мм нейлон (100 шт.)",
+   "unit": "упак",
+   "price": 149.0,
+   "price_gold": 145.0,
+   "url": "https://moscow.petrovich.ru/product/139026/",
+   "updated": "2026-09-16T09:53:19.029453+00:00"
+  },
+  "139027": {
+   "title": "Дюбель распорный Hard-Fix 8x40 мм нейлон (100 шт.)",
+   "unit": "упак",
+   "price": 287.0,
+   "price_gold": 279.0,
+   "url": "https://moscow.petrovich.ru/product/139027/",
+   "updated": "2026-09-16T09:53:19.029453+00:00"
+  },
+  "139035": {
+   "title": "Дюбель распорный Hard-Fix 8x65 мм нейлон (100 шт.)",
+   "unit": "упак",
+   "price": 572.0,
+   "price_gold": 555.0,
+   "url": "https://moscow.petrovich.ru/product/139035/",
+   "updated": "2026-09-16T09:53:19.029453+00:00"
+  },
+  "139567": {
+   "title": "Карандаш строительный малярный Hesler (10 шт.)",
+   "unit": "упак",
+   "price": 141.0,
+   "price_gold": 137.0,
+   "url": "https://moscow.petrovich.ru/product/139567/",
+   "updated": "2026-09-16T09:42:18.202991+00:00"
+  },
+  "139896": {
+   "title": "Бур SDS-plus Практика Профи 12х160 мм (033-697)",
+   "unit": "шт",
+   "price": 219.0,
+   "price_gold": 213.0,
+   "url": "https://moscow.petrovich.ru/product/139896/",
+   "updated": "2026-09-16T09:44:38.188953+00:00"
+  },
+  "141915": {
+   "title": "Молоток слесарный Hesler 300 г фибергласовая ручка (HF01-300 /141915)",
+   "unit": "шт",
+   "price": 379.0,
+   "price_gold": 368.0,
+   "url": "https://moscow.petrovich.ru/product/141915/",
+   "updated": "2026-09-16T09:47:41.738575+00:00"
+  },
+  "142868": {
+   "title": "Лента ФУМ Valtec 12 мм 20 м",
+   "unit": "шт",
+   "price": 101.0,
+   "price_gold": 101.0,
+   "url": "https://moscow.petrovich.ru/product/142868/",
+   "updated": "2026-09-16T09:34:37.261419+00:00"
+  },
+  "147628": {
+   "title": "Отвертка крестовая PH3 150 мм Hesler",
+   "unit": "шт",
+   "price": 121.0,
+   "price_gold": 118.0,
+   "url": "https://moscow.petrovich.ru/product/147628/",
+   "updated": "2026-09-16T09:46:35.702198+00:00"
+  },
+  "150122": {
+   "title": "Набор буров SDS-plus Практика Мастер 6-10 мм (648-700)",
+   "unit": "шт",
+   "price": 398.0,
+   "price_gold": 386.0,
+   "url": "https://moscow.petrovich.ru/product/150122/",
+   "updated": "2026-09-16T09:44:39.575851+00:00"
+  },
+  "152808": {
+   "title": "Набор сверл универсальных спиральных Практика 4-10 мм (5 шт.) (640-339)",
+   "unit": "шт",
+   "price": 1093.0,
+   "price_gold": 1061.0,
+   "url": "https://moscow.petrovich.ru/product/152808/",
+   "updated": "2026-09-16T09:44:58.019733+00:00"
+  },
+  "163096": {
+   "title": "Коронка алмазная Trio-Diamond (400032) по керамограниту d32 мм",
+   "unit": "шт",
+   "price": 1070.0,
+   "price_gold": 1039.0,
+   "url": "https://moscow.petrovich.ru/product/163096/",
+   "updated": "2026-09-16T09:44:47.500517+00:00"
+  },
+  "168190": {
+   "title": "Дюбель для газобетона Hard-Fix 10х50/М6 мм нейлон (20 шт.)",
+   "unit": "упак",
+   "price": 402.0,
+   "price_gold": 390.0,
+   "url": "https://moscow.petrovich.ru/product/168190/",
+   "updated": "2026-09-16T09:53:11.105341+00:00"
+  },
+  "504766": {
+   "title": "Реноватор электрический Makita TM3000C 320 Вт",
+   "unit": "шт",
+   "price": 12290.0,
+   "price_gold": 12290.0,
+   "url": "https://moscow.petrovich.ru/product/504766/",
+   "updated": "2026-09-16T09:51:51.522474+00:00"
+  },
+  "506039": {
+   "title": "Клемма на 2 провода Wago 2273-242 0,5-2,5 кв.мм самозажимная с пастой (6 шт.) (2585/2273-242)",
+   "unit": "упак",
+   "price": 162.0,
+   "price_gold": 162.0,
+   "url": "https://moscow.petrovich.ru/product/506039/",
+   "updated": "2026-09-16T10:59:04.348870+00:00"
+  },
+  "612672": {
+   "title": "Перфоратор аккумуляторный Makita DHR202RF 18 В 1,9 Дж 3Ач SDS-plus 1 АКБ и ЗУ",
+   "unit": "шт",
+   "price": 21030.0,
+   "price_gold": 21030.0,
+   "url": "https://moscow.petrovich.ru/product/612672/",
+   "updated": "2026-09-16T09:51:32.931091+00:00"
+  },
+  "614815": {
+   "title": "Нить для герметизации резьбы Valtec льняная 55 м",
+   "unit": "шт",
+   "price": 182.0,
+   "price_gold": 182.0,
+   "url": "https://moscow.petrovich.ru/product/614815/",
+   "updated": "2026-09-16T09:34:28.025957+00:00"
+  },
+  "619706": {
+   "title": "Лезвие для ножа Hesler 19 мм трапеция (10 шт.) пластиковый корпус ножа",
+   "unit": "упак",
+   "price": 94.0,
+   "price_gold": 91.0,
+   "url": "https://moscow.petrovich.ru/product/619706/",
+   "updated": "2026-09-16T09:46:55.120928+00:00"
+  },
+  "623458": {
+   "title": "Сумка поясная для инструментов Matrix двойная 20 карманов (90240)",
+   "unit": "шт",
+   "price": 1888.0,
+   "price_gold": 1833.0,
+   "url": "https://moscow.petrovich.ru/product/623458/",
+   "updated": "2026-09-16T09:50:20.182969+00:00"
+  },
+  "626176": {
+   "title": "Дрель-шуруповерт аккумуляторная Makita CXT DF333D 12 В 2 Ач Li-Ion 2 АКБ и ЗУ (DF333DWAE)",
+   "unit": "шт",
+   "price": 12210.0,
+   "price_gold": 12210.0,
+   "url": "https://moscow.petrovich.ru/product/626176/",
+   "updated": "2026-09-16T09:51:18.090659+00:00"
+  },
+  "632628": {
+   "title": "Лента клейкая монтажная Beorol двусторонняя 48 мм 10 м",
+   "unit": "шт",
+   "price": 303.0,
+   "price_gold": 294.0,
+   "url": "https://moscow.petrovich.ru/product/632628/",
+   "updated": "2026-09-16T09:50:08.627028+00:00"
+  },
+  "633069": {
+   "title": "Трубка термоусадочная Navigator ТУТ 14/7 мм 100 мм 7 цветов (21 шт.)",
+   "unit": "упак",
+   "price": 103.0,
+   "price_gold": 103.0,
+   "url": "https://moscow.petrovich.ru/product/633069/",
+   "updated": "2026-09-16T10:59:21.609445+00:00"
+  },
+  "640610": {
+   "title": "Заглушка декоративная пластиковая на мебельную стяжку HEX d7 мм белая (50 шт.)",
+   "unit": "упак",
+   "price": 34.0,
+   "price_gold": 33.0,
+   "url": "https://moscow.petrovich.ru/product/640610/",
+   "updated": "2026-09-16T10:21:52.515303+00:00"
+  },
+  "640687": {
+   "title": "Шкант мебельный 8х30 мм (45 шт.)",
+   "unit": "упак",
+   "price": 61.0,
+   "price_gold": 59.0,
+   "url": "https://moscow.petrovich.ru/product/640687/",
+   "updated": "2026-09-16T10:22:04.980484+00:00"
+  },
+  "640815": {
+   "title": "Уголок мебельный оцинкованный 25х25х28 мм",
+   "unit": "шт",
+   "price": 15.0,
+   "price_gold": 15.0,
+   "url": "https://moscow.petrovich.ru/product/640815/",
+   "updated": "2026-09-16T10:22:04.980484+00:00"
+  },
+  "651241": {
+   "title": "Отвертка крестовая PH2 100 мм Rage by Vira (391100)",
+   "unit": "шт",
+   "price": 356.0,
+   "price_gold": 345.0,
+   "url": "https://moscow.petrovich.ru/product/651241/",
+   "updated": "2026-09-16T09:46:37.100807+00:00"
+  },
+  "651252": {
+   "title": "Отвертка плоская SL3 75 мм Rage by Vira (391106)",
+   "unit": "шт",
+   "price": 248.0,
+   "price_gold": 240.0,
+   "url": "https://moscow.petrovich.ru/product/651252/",
+   "updated": "2026-09-16T09:46:35.702198+00:00"
+  },
+  "651256": {
+   "title": "Отвертка плоская SL5 150 мм Rage by Vira (391132)",
+   "unit": "шт",
+   "price": 302.0,
+   "price_gold": 293.0,
+   "url": "https://moscow.petrovich.ru/product/651256/",
+   "updated": "2026-09-16T09:46:37.100807+00:00"
+  },
+  "653831": {
+   "title": "Набор шестигранных ключей Stayer Master 1,5-10 мм (2741-H9-2) (9 шт.)",
+   "unit": "шт",
+   "price": 600.0,
+   "price_gold": 583.0,
+   "url": "https://moscow.petrovich.ru/product/653831/",
+   "updated": "2026-09-16T10:22:04.980484+00:00"
+  },
+  "671790": {
+   "title": "Струбцина столярная Stayer Hercules-P HP-15/6 быстрозажимная 150 мм (32242-15)",
+   "unit": "шт",
+   "price": 757.0,
+   "price_gold": 735.0,
+   "url": "https://moscow.petrovich.ru/product/671790/",
+   "updated": "2026-09-16T09:46:01.465891+00:00"
+  },
+  "671792": {
+   "title": "Струбцина столярная Stayer Hercules-P HP-45/6 быстрозажимная 450 мм (32242-45_z01)",
+   "unit": "шт",
+   "price": 1014.0,
+   "price_gold": 985.0,
+   "url": "https://moscow.petrovich.ru/product/671792/",
+   "updated": "2026-09-16T09:46:01.465891+00:00"
+  },
+  "672311": {
+   "title": "Скобы для степлера КМ (672311) тип 53 12 мм (1000 шт.)",
+   "unit": "упак",
+   "price": 69.0,
+   "price_gold": 67.0,
+   "url": "https://moscow.petrovich.ru/product/672311/",
+   "updated": "2026-09-16T09:57:21.066076+00:00"
+  },
+  "672312": {
+   "title": "Скобы для степлера КМ (672312) тип 53 14 мм (1000 шт.)",
+   "unit": "упак",
+   "price": 71.0,
+   "price_gold": 69.0,
+   "url": "https://moscow.petrovich.ru/product/672312/",
+   "updated": "2026-09-16T09:57:21.066076+00:00"
+  },
+  "675689": {
+   "title": "Клей ПВА Момент Столяр Экспресс D2 250 г",
+   "unit": "шт",
+   "price": 321.0,
+   "price_gold": 310.0,
+   "url": "https://moscow.petrovich.ru/product/675689/",
+   "updated": "2026-09-16T10:35:08.829582+00:00"
+  },
+  "678844": {
+   "title": "Клей цианоакрилатный Cosmofen Ca-500.200 секундный прозрачный 20 г",
+   "unit": "шт",
+   "price": 273.0,
+   "price_gold": 264.0,
+   "url": "https://moscow.petrovich.ru/product/678844/",
+   "updated": "2026-09-16T10:35:18.508560+00:00"
+  },
+  "684791": {
+   "title": "Сверло по дереву Vira 5х86 мм конфирмат для мебельной стяжки 7х50 мм с зенкером (552750)",
+   "unit": "шт",
+   "price": 319.0,
+   "price_gold": 310.0,
+   "url": "https://moscow.petrovich.ru/product/684791/",
+   "updated": "2026-09-16T09:45:04.574821+00:00"
+  },
+  "684804": {
+   "title": "Сверло Форстнера по дереву Rage by Vira 35х94 мм (552015)",
+   "unit": "шт",
+   "price": 908.0,
+   "price_gold": 882.0,
+   "url": "https://moscow.petrovich.ru/product/684804/",
+   "updated": "2026-09-16T09:45:04.574821+00:00"
+  },
+  "684808": {
+   "title": "Сверло по плитке и стеклу Vira 6х76 мм (554066)",
+   "unit": "шт",
+   "price": 205.0,
+   "price_gold": 199.0,
+   "url": "https://moscow.petrovich.ru/product/684808/",
+   "updated": "2026-09-16T09:44:58.019733+00:00"
+  },
+  "684809": {
+   "title": "Сверло по плитке и стеклу Vira 8х80 мм (554068)",
+   "unit": "шт",
+   "price": 282.0,
+   "price_gold": 274.0,
+   "url": "https://moscow.petrovich.ru/product/684809/",
+   "updated": "2026-09-16T09:44:58.019733+00:00"
+  },
+  "684811": {
+   "title": "Сверло по металлу ступенчатое Rage by Vira 4-20 мм (554300)",
+   "unit": "шт",
+   "price": 1191.0,
+   "price_gold": 1156.0,
+   "url": "https://moscow.petrovich.ru/product/684811/",
+   "updated": "2026-09-16T09:44:58.019733+00:00"
+  },
+  "685336": {
+   "title": "Набор шпателей для нанесения герметика Stayer резиновых (2 шт.) (10165-H2)",
+   "unit": "шт",
+   "price": 168.0,
+   "price_gold": 163.0,
+   "url": "https://moscow.petrovich.ru/product/685336/",
+   "updated": "2026-09-16T09:50:40.032833+00:00"
+  },
+  "689101": {
+   "title": "Лента монтажная X-Glass ТПЛ армированная 50 мм 50 м серая",
+   "unit": "шт",
+   "price": 286.0,
+   "price_gold": 286.0,
+   "url": "https://moscow.petrovich.ru/product/689101/",
+   "updated": "2026-09-16T09:50:07.262920+00:00"
+  },
+  "690222": {
+   "title": "Набор торцевых головок с трещоткой Stels 1/4\" (14125) (11 шт.)",
+   "unit": "шт",
+   "price": 2152.0,
+   "price_gold": 2090.0,
+   "url": "https://moscow.petrovich.ru/product/690222/",
+   "updated": "2026-09-16T09:47:10.588176+00:00"
+  },
+  "692377": {
+   "title": "Салфетки влажные антибактериальные Salfeti с клапаном (72 шт.)",
+   "unit": "шт",
+   "price": 139.0,
+   "price_gold": 135.0,
+   "url": "https://moscow.petrovich.ru/product/692377/",
+   "updated": "2026-09-16T10:23:50.569774+00:00"
+  },
+  "740119": {
+   "title": "Нож строительный КМ 19 мм с трапециевидным выдвижным лезвием металлический корпус",
+   "unit": "шт",
+   "price": 282.0,
+   "price_gold": 274.0,
+   "url": "https://moscow.petrovich.ru/product/740119/",
+   "updated": "2026-09-16T09:46:57.950965+00:00"
+  },
+  "765309": {
+   "title": "Ящик для инструментов КМ Блок с колесами 546х380х510 мм (XB-5551)",
+   "unit": "шт",
+   "price": 8812.0,
+   "price_gold": 8555.0,
+   "url": "https://moscow.petrovich.ru/product/765309/",
+   "updated": "2026-09-16T09:50:24.296190+00:00"
+  },
+  "765312": {
+   "title": "Ящик для инструментов КМ Блок 550х280х264 мм (XB-5526)",
+   "unit": "шт",
+   "price": 3080.0,
+   "price_gold": 2990.0,
+   "url": "https://moscow.petrovich.ru/product/765312/",
+   "updated": "2026-09-16T09:50:24.296190+00:00"
+  },
+  "803779": {
+   "title": "Дрель-шуруповерт аккумуляторная бесщеточная Makita LXT DDF486Z 18 В без АКБ и ЗУ",
+   "unit": "шт",
+   "price": 18990.0,
+   "price_gold": 18990.0,
+   "url": "https://moscow.petrovich.ru/product/803779/",
+   "updated": "2026-09-16T09:51:18.090659+00:00"
+  },
+  "815736": {
+   "title": "Бур SDS-plus КМ 14х210 мм (815736)",
+   "unit": "шт",
+   "price": 282.0,
+   "price_gold": 274.0,
+   "url": "https://moscow.petrovich.ru/product/815736/",
+   "updated": "2026-09-16T09:44:38.188953+00:00"
+  },
+  "823990": {
+   "title": "Нивелир лазерный Condtrol Neo G220 Set со штативом (1-2-137)",
+   "unit": "шт",
+   "price": 5990.0,
+   "price_gold": 5990.0,
+   "url": "https://moscow.petrovich.ru/product/823990/",
+   "updated": "2026-09-16T09:42:22.467410+00:00"
+  },
+  "825035": {
+   "title": "Крепление Condtrol Wall Mount Pro для лазерных нивелиров с лифтом (7-1-027)",
+   "unit": "шт",
+   "price": 1598.0,
+   "price_gold": 1598.0,
+   "url": "https://moscow.petrovich.ru/product/825035/",
+   "updated": "2026-09-16T09:42:36.563368+00:00"
+  },
+  "875594": {
+   "title": "Бита Rage by Vira PH2 магнитная 150 мм (2 шт.) (554131)",
+   "unit": "упак",
+   "price": 352.0,
+   "price_gold": 342.0,
+   "url": "https://moscow.petrovich.ru/product/875594/",
+   "updated": "2026-09-16T09:43:26.382145+00:00"
+  },
+  "875596": {
+   "title": "Бита Rage by Vira PH2 магнитная 50 мм c ограничителем (2 шт.) (554133)",
+   "unit": "упак",
+   "price": 226.0,
+   "price_gold": 219.0,
+   "url": "https://moscow.petrovich.ru/product/875596/",
+   "updated": "2026-09-16T09:43:26.382145+00:00"
+  },
+  "967846": {
+   "title": "Бита Rage by Vira PZ2 магнитная 50 мм с ограничителем (2 шт.) (554134)",
+   "unit": "упак",
+   "price": 252.0,
+   "price_gold": 245.0,
+   "url": "https://moscow.petrovich.ru/product/967846/",
+   "updated": "2026-09-16T09:43:29.188488+00:00"
+  },
+  "967879": {
+   "title": "Кернер круглый Зубр 105 мм автоматический",
+   "unit": "шт",
+   "price": 1627.0,
+   "price_gold": 1580.0,
+   "url": "https://moscow.petrovich.ru/product/967879/",
+   "updated": "2026-09-16T09:47:36.557107+00:00"
+  },
+  "985944": {
+   "title": "Отвертка индикаторная 150 мм 250 В EKF Expert ОИ-1 (ST-10)",
+   "unit": "шт",
+   "price": 234.0,
+   "price_gold": 227.0,
+   "url": "https://moscow.petrovich.ru/product/985944/",
+   "updated": "2026-09-16T10:41:19.943649+00:00"
+  },
+  "991189": {
+   "title": "Бокорезы диэлектрические 160 мм 1000 В Rexant (12-4614-3)",
+   "unit": "шт",
+   "price": 612.0,
+   "price_gold": 594.0,
+   "url": "https://moscow.petrovich.ru/product/991189/",
+   "updated": "2026-09-16T10:41:22.618775+00:00"
+  },
+  "991192": {
+   "title": "Плоскогубцы диэлектрические 160 мм 1000 В Rexant (12-4611-3)",
+   "unit": "шт",
+   "price": 571.0,
+   "price_gold": 554.0,
+   "url": "https://moscow.petrovich.ru/product/991192/",
+   "updated": "2026-09-16T10:41:22.618775+00:00"
+  },
+  "991195": {
+   "title": "Нож 180 мм Rexant кабельный для снятия изоляции (12-4935)",
+   "unit": "шт",
+   "price": 1020.0,
+   "price_gold": 990.0,
+   "url": "https://moscow.petrovich.ru/product/991195/",
+   "updated": "2026-09-16T10:41:14.298081+00:00"
+  },
+  "995323": {
+   "title": "Фонарь налобный Rev светодиодный 1 LED 3 Вт аккумуляторный Li-Ion 100 мАч пластик (29090 2)",
+   "unit": "шт",
+   "price": 986.0,
+   "price_gold": 986.0,
+   "url": "https://moscow.petrovich.ru/product/995323/",
+   "updated": "2026-09-16T10:53:00.935052+00:00"
+  },
+  "999367": {
+   "title": "Отвертка диэлектрическая крестовая PZ-FL 220 мм 1000 В КВТ Профи (79778)",
+   "unit": "шт",
+   "price": 345.0,
+   "price_gold": 335.0,
+   "url": "https://moscow.petrovich.ru/product/999367/",
+   "updated": "2026-09-16T10:41:22.618775+00:00"
+  },
+  "1010017": {
+   "title": "Пила дисковая аккумуляторная Makita LXT DSS610RF 18 В 3Ач Li-Ion d165 мм с АКБ и ЗУ",
+   "unit": "шт",
+   "price": 29900.0,
+   "price_gold": 29900.0,
+   "url": "https://moscow.petrovich.ru/product/1010017/",
+   "updated": "2026-09-16T09:51:37.438598+00:00"
+  },
+  "1014584": {
+   "title": "Набор бит Vira PH/PZ/SL/TORX/HEX 25 мм с магнитным держателем (16 шт.) (554101)",
+   "unit": "шт",
+   "price": 381.0,
+   "price_gold": 370.0,
+   "url": "https://moscow.petrovich.ru/product/1014584/",
+   "updated": "2026-09-16T09:43:34.620547+00:00"
+  },
+  "1015518": {
+   "title": "Пилки для лобзика Rage by Vira T101B по дереву L75 мм чистый рез (2 шт.) (552027)",
+   "unit": "упак",
+   "price": 196.0,
+   "price_gold": 190.0,
+   "url": "https://moscow.petrovich.ru/product/1015518/",
+   "updated": "2026-09-16T09:45:42.851867+00:00"
+  },
+  "1015519": {
+   "title": "Пилки для лобзика Rage by Vira T101BR по дереву L75 мм чистый рез (2 шт.) (552033)",
+   "unit": "упак",
+   "price": 160.0,
+   "price_gold": 155.0,
+   "url": "https://moscow.petrovich.ru/product/1015519/",
+   "updated": "2026-09-16T09:45:42.851867+00:00"
+  },
+  "1015522": {
+   "title": "Пилки для лобзика Rage by Vira T118A по металлу L50 мм чистый рез (2 шт.) (552038)",
+   "unit": "упак",
+   "price": 236.0,
+   "price_gold": 229.0,
+   "url": "https://moscow.petrovich.ru/product/1015522/",
+   "updated": "2026-09-16T09:45:42.851867+00:00"
+  },
+  "1020815": {
+   "title": "Герметик силиконовый санитарный КМ белый 280 мл",
+   "unit": "шт",
+   "price": 385.0,
+   "price_gold": 372.0,
+   "url": "https://moscow.petrovich.ru/product/1020815/",
+   "updated": "2026-09-16T10:24:39.332564+00:00"
+  },
+  "1021244": {
+   "title": "Рулетка Bolt eXplore с автостопом магнитная 5 м x 25 мм",
+   "unit": "шт",
+   "price": 622.0,
+   "price_gold": 604.0,
+   "url": "https://moscow.petrovich.ru/product/1021244/",
+   "updated": "2026-09-16T09:42:30.015762+00:00"
+  },
+  "1028396": {
+   "title": "Насадка для реноватора Hilberg (HR7383) по дереву 32 мм",
+   "unit": "шт",
+   "price": 608.0,
+   "price_gold": 590.0,
+   "url": "https://moscow.petrovich.ru/product/1028396/",
+   "updated": "2026-09-16T09:44:18.206600+00:00"
+  },
+  "1030198": {
+   "title": "Уровень пузырьковый Bolt eXplore 60 см 3 глазка коробчатый",
+   "unit": "шт",
+   "price": 1352.0,
+   "price_gold": 1313.0,
+   "url": "https://moscow.petrovich.ru/product/1030198/",
+   "updated": "2026-09-16T09:42:32.726400+00:00"
+  },
+  "1036999": {
+   "title": "Пистолет для дюбелей и анкеров Молли Rage by Vira (810208) 190 мм алюминиевый",
+   "unit": "шт",
+   "price": 1189.0,
+   "price_gold": 1154.0,
+   "url": "https://moscow.petrovich.ru/product/1036999/",
+   "updated": "2026-09-16T09:46:30.596267+00:00"
+  },
+  "1044730": {
+   "title": "Стяжка кабельная КМ 200х2,5 мм нейлоновая черная (100 шт.) (ЦБ-00020787)",
+   "unit": "упак",
+   "price": 91.0,
+   "price_gold": 91.0,
+   "url": "https://moscow.petrovich.ru/product/1044730/",
+   "updated": "2026-09-16T10:41:01.428022+00:00"
+  },
+  "1057507": {
+   "title": "Кейс для электроинструмента Tayg с органайзером 430х370х140 мм (144998)",
+   "unit": "шт",
+   "price": 2073.0,
+   "price_gold": 2073.0,
+   "url": "https://moscow.petrovich.ru/product/1057507/",
+   "updated": "2026-09-16T09:50:24.296190+00:00"
+  },
+  "1073760": {
+   "title": "Угольник столярный Bolt 185 мм алюминиевый",
+   "unit": "шт",
+   "price": 919.0,
+   "price_gold": 893.0,
+   "url": "https://moscow.petrovich.ru/product/1073760/",
+   "updated": "2026-09-16T09:42:16.833698+00:00"
+  },
+  "1073761": {
+   "title": "Угольник столярный Bolt 300 мм алюминиевый",
+   "unit": "шт",
+   "price": 1936.0,
+   "price_gold": 1880.0,
+   "url": "https://moscow.petrovich.ru/product/1073761/",
+   "updated": "2026-09-16T09:42:16.833698+00:00"
+  },
+  "1080914": {
+   "title": "Линейка строительная Hesler 300х34 мм нержавеющая сталь",
+   "unit": "шт",
+   "price": 76.0,
+   "price_gold": 74.0,
+   "url": "https://moscow.petrovich.ru/product/1080914/",
+   "updated": "2026-09-16T09:42:16.833698+00:00"
+  },
+  "1080915": {
+   "title": "Линейка строительная Hesler 600х35 мм нержавеющая сталь",
+   "unit": "шт",
+   "price": 168.0,
+   "price_gold": 163.0,
+   "url": "https://moscow.petrovich.ru/product/1080915/",
+   "updated": "2026-09-16T09:42:16.833698+00:00"
+  },
+  "1091620": {
+   "title": "Адаптер для бит Rage угловой магнитный",
+   "unit": "шт",
+   "price": 1707.0,
+   "price_gold": 1657.0,
+   "url": "https://moscow.petrovich.ru/product/1091620/",
+   "updated": "2026-09-16T09:44:55.331195+00:00"
+  },
+  "1093247": {
+   "title": "Клей цианоакрилатный КМ Фикс-5 универсальный двухкомпонентный прозрачный 200 мл+50 г",
+   "unit": "шт",
+   "price": 443.0,
+   "price_gold": 428.0,
+   "url": "https://moscow.petrovich.ru/product/1093247/",
+   "updated": "2026-09-16T10:35:18.508560+00:00"
+  },
+  "1138262": {
+   "title": "Набор коронок Kranz (KR-92-0251) по дереву d19-64 мм с 2 держателями и ключом (8 шт.)",
+   "unit": "шт",
+   "price": 756.0,
+   "price_gold": 734.0,
+   "url": "https://moscow.petrovich.ru/product/1138262/",
+   "updated": "2026-09-16T09:44:47.500517+00:00"
+  },
+  "1138579": {
+   "title": "Клещи переставные Rage by Vira 250 мм (311054)",
+   "unit": "шт",
+   "price": 1132.0,
+   "price_gold": 1099.0,
+   "url": "https://moscow.petrovich.ru/product/1138579/",
+   "updated": "2026-09-16T09:45:59.908204+00:00"
+  },
+  "1145469": {
+   "title": "Диск пильный по дереву Diamond Industrial WoodMaker 165х20 мм 48 зубьев (DIDD165Z48)",
+   "unit": "шт",
+   "price": 1391.0,
+   "price_gold": 1350.0,
+   "url": "https://moscow.petrovich.ru/product/1145469/",
+   "updated": "2026-09-16T09:45:45.683193+00:00"
+  },
+  "1146499": {
+   "title": "Органайзер для крепежа БытПласт Worker Pro 480х370х70 мм (43522871100)",
+   "unit": "шт",
+   "price": 1492.0,
+   "price_gold": 1449.0,
+   "url": "https://moscow.petrovich.ru/product/1146499/",
+   "updated": "2026-09-16T09:50:24.296190+00:00"
+  },
+  "1174106": {
+   "title": "Ключ комбинированный рожково-накидной с трещоткой Vira 10 мм",
+   "unit": "шт",
+   "price": 522.0,
+   "price_gold": 507.0,
+   "url": "https://moscow.petrovich.ru/product/1174106/",
+   "updated": "2026-09-16T09:47:14.947661+00:00"
+  },
+  "1174108": {
+   "title": "Ключ комбинированный рожково-накидной с трещоткой Vira 13 мм",
+   "unit": "шт",
+   "price": 629.0,
+   "price_gold": 611.0,
+   "url": "https://moscow.petrovich.ru/product/1174108/",
+   "updated": "2026-09-16T09:47:14.947661+00:00"
+  },
+  "1190015": {
+   "title": "Строительный пылесос Karcher WD 3 P V-17/4/20 1000 Вт 17 л (1.628-170.0)",
+   "unit": "шт",
+   "price": 11690.0,
+   "price_gold": 11690.0,
+   "url": "https://moscow.petrovich.ru/product/1190015/",
+   "updated": "2026-09-16T10:18:41.919880+00:00"
+  },
+  "1190204": {
+   "title": "Набор сверл по дереву спиральных Kranz 4-10 мм (5 шт.) (KR-91-0750)",
+   "unit": "шт",
+   "price": 414.0,
+   "price_gold": 402.0,
+   "url": "https://moscow.petrovich.ru/product/1190204/",
+   "updated": "2026-09-16T09:45:09.027255+00:00"
+  },
+  "1223271": {
+   "title": "Круглогубцы мини Rexant 120 мм (12-4606)",
+   "unit": "шт",
+   "price": 287.0,
+   "price_gold": 278.0,
+   "url": "https://moscow.petrovich.ru/product/1223271/",
+   "updated": "2026-09-16T09:47:28.836074+00:00"
+  },
+  "1237527": {
+   "title": "Ножницы универсальные Зубр Мастер 290 мм прямые (40481-29)",
+   "unit": "шт",
+   "price": 514.0,
+   "price_gold": 499.0,
+   "url": "https://moscow.petrovich.ru/product/1237527/",
+   "updated": "2026-09-16T09:46:59.607860+00:00"
+  }
+ }
+}
