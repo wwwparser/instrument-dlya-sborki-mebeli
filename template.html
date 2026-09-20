@@ -108,10 +108,7 @@ footer{color:var(--muted);font-size:13px;padding:40px 0 60px}
   <div class="eyebrow">Цены Петровича, Москва, на <span id="date"></span></div>
   <h1 id="h1">Инструмент для сборки кухонь и корпусной мебели</h1>
   <p class="lead" id="lead"></p>
-  <div class="controls" id="variants">
-    <a class="chip" href="index.html">Основной список</a>
-    <a class="chip" href="econom.html">Эконом-вариант</a>
-  </div>
+  <div class="controls" id="variants"></div>
   <div class="kpis" id="kpis"></div>
 </header>
 <nav><div class="wrap" id="nav"></div></nav>
@@ -130,7 +127,7 @@ footer{color:var(--muted);font-size:13px;padding:40px 0 60px}
   <div id="groups"></div>
   <section id="missing">
     <div class="sh"><h2>Нет в Петровиче</h2></div>
-    <p class="gnote">Мебельной фурнитуры и шаблонов в Петровиче нет. Их покупают в магазинах мебельной фурнитуры, в сумму они не входят.</p>
+    <p class="gnote" id="missingnote"></p>
     <div class="card"><ul class="missing" id="missinglist"></ul></div>
   </section>
 </main>
@@ -157,11 +154,11 @@ $('date').textContent = date; $('date2').textContent = date;
   };
 })();
 
-document.title = D.variant === 'econom' ? 'Инструмент для сборки мебели: эконом-вариант' : 'Инструмент для сборки мебели';
+document.title = D.h1;
 $('h1').textContent = D.h1;
 $('lead').textContent = D.lead;
-const here = D.variant === 'econom' ? 'econom.html' : 'index.html';
-$('variants').querySelectorAll('a').forEach(a => a.setAttribute('aria-pressed', a.getAttribute('href') === here));
+$('variants').innerHTML = D.pages.map(p =>
+  `<a class="chip" href="${esc(p.file)}" aria-pressed="${p.current}">${esc(p.label)}</a>`).join('');
 
 const power = D.groups.find(g => g.key === 'power').total;
 const cons = D.groups.filter(g => ['fasteners','chem'].includes(g.key)).reduce((a,g) => a + g.total, 0);
@@ -212,6 +209,7 @@ $('filter').onclick = e => {
   $('filter').querySelectorAll('[data-f]').forEach(x => x.setAttribute('aria-pressed', x === b));
   render();
 };
+$('missingnote').textContent = D.missing_note;
 $('missinglist').innerHTML = D.missing.map(([n,t]) => `<li>${esc(n)} <span class="ts">${esc(t)}</span></li>`).join('');
 </script>
 </body>
