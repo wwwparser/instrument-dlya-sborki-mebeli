@@ -80,6 +80,8 @@ tfoot td{font-weight:700;background:var(--soft)}
 .controls{display:flex;gap:8px;flex-wrap:wrap;margin-top:16px}
 .chip{border:1px solid var(--line);background:var(--panel);color:var(--ink);border-radius:999px;padding:6px 12px;font:inherit;font-size:14px;cursor:pointer}
 .chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+a.chip{text-decoration:none}
+a.chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
 .missing{columns:2;column-gap:28px;margin:0;padding-left:18px}
 .missing li{margin:4px 0;break-inside:avoid}
 footer{color:var(--muted);font-size:13px;padding:40px 0 60px}
@@ -104,8 +106,12 @@ footer{color:var(--muted);font-size:13px;padding:40px 0 60px}
 <header class="wrap">
   <button class="theme" id="theme" type="button" aria-label="Сменить тему">◐</button>
   <div class="eyebrow">Цены Петровича, Москва, на <span id="date"></span></div>
-  <h1>Инструмент для сборки кухонь и корпусной мебели</h1>
-  <p class="lead">Список инструмента опытного сборщика из видеообзора: пылесос, пила, шуруповёрты, перфоратор, ручной инструмент и расходники. Каждая позиция подобрана в каталоге Петровича, со ссылкой и ценой. Если точной модели из видео в магазине нет, взят ближайший аналог и указано, чем он отличается.</p>
+  <h1 id="h1">Инструмент для сборки кухонь и корпусной мебели</h1>
+  <p class="lead" id="lead"></p>
+  <div class="controls" id="variants">
+    <a class="chip" href="index.html">Основной список</a>
+    <a class="chip" href="econom.html">Эконом-вариант</a>
+  </div>
   <div class="kpis" id="kpis"></div>
 </header>
 <nav><div class="wrap" id="nav"></div></nav>
@@ -151,12 +157,21 @@ $('date').textContent = date; $('date2').textContent = date;
   };
 })();
 
+document.title = D.variant === 'econom' ? 'Инструмент для сборки мебели: эконом-вариант' : 'Инструмент для сборки мебели';
+$('h1').textContent = D.h1;
+$('lead').textContent = D.lead;
+const here = D.variant === 'econom' ? 'econom.html' : 'index.html';
+$('variants').querySelectorAll('a').forEach(a => a.setAttribute('aria-pressed', a.getAttribute('href') === here));
+
 const power = D.groups.find(g => g.key === 'power').total;
 const cons = D.groups.filter(g => ['fasteners','chem'].includes(g.key)).reduce((a,g) => a + g.total, 0);
+const diff = Math.abs(D.total - D.other);
 $('kpis').innerHTML = [
   ['Итого', rub(D.total), `${D.count} позиций`, 'total'],
   ['Электроинструмент', rub(power), `${Math.round(power / D.total * 100)} % суммы`],
-  ['Расходники', rub(cons), 'крепёж, клей, ленты, химия'],
+  D.variant === 'econom'
+    ? ['Экономия', rub(diff), `дешевле основного списка на ${Math.round(diff / D.other * 100)} %`]
+    : ['Расходники', rub(cons), 'крепёж, клей, ленты, химия'],
   ['Аналоги', D.analogs, `из ${D.count}: модели из видео нет в Петровиче`],
 ].map(([l,v,s,c]) => `<div class="kpi ${c||''}"><div class="l">${l}</div><div class="v">${v}</div><div class="s">${s}</div></div>`).join('');
 
