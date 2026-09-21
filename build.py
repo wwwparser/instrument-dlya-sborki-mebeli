@@ -3,8 +3,9 @@
     python build.py            # цены из базы парсера (../idea-parser-petrovich/data/petrovich.sqlite3)
     python build.py --offline  # цены из prices.json
 
-Четыре страницы, по два варианта на каждый видеообзор: index.html и econom.html —
-первый сборщик, master2.html и master2-econom.html — второй.
+Страницы: по два варианта (основной и эконом) на каждый из трёх видеообзоров —
+index/econom, master2/master2-econom, master3/master3-econom — и отдельный набор
+для разборки и перевозки мебели razbor-perevozka.html.
 """
 import argparse
 import io
@@ -19,6 +20,7 @@ import items_master2
 import items_master2_econom
 import items_master3
 import items_master3_econom
+import items_moving
 
 ROOT = Path(__file__).resolve().parent
 DB = ROOT.parent / 'idea-parser-petrovich' / 'data' / 'petrovich.sqlite3'
@@ -68,6 +70,16 @@ PAGES = [
          lead='Тот же набор третьего обзора на недорогих марках: аккумуляторным остаётся только шуруповёрт КМ 12 В, '
               'пила, перфоратор, лобзик, реноватор и мини-УШМ — сетевые. Коронки под мойки, буры 6 и 7 мм и '
               'зелёный лазер сохранены.'),
+    dict(key='moving', file='razbor-perevozka.html', mod=items_moving, kind='kit', pair=None,
+         label='Разборка и перевозка', tab='Перевозка',
+         missing_title='Докупить на маркетплейсе',
+         missing_note='Тележек, стяжных ремней, мебельных одеял, стрейча, защитных уголков и zip-пакетов в Петровиче нет. '
+                      'Их берут на Ozon или Wildberries; цены — ориентир, в сумму страницы они не входят. '
+                      'В машине постоянно живут плед, тележка, ремни и стрейч, в ящике — весь ручной набор.',
+         title='Разборка и перевозка мебели: минимальный набор',
+         lead='Самый недорогой набор, чтобы забрать стол, тумбу или стеллаж с Avito: разобрать без повреждений, '
+              'разложить и подписать крепёж, упаковать детали и довезти в обычной легковушке. Шуруповёрт уже есть — '
+              'здесь только ручной инструмент, упаковка и то, во что это сложить.'),
 ]
 
 
@@ -123,7 +135,8 @@ def build(offline=False):
         built[page['key']] = page_data(page['mod'], products, date)
     for page in PAGES:
         data = dict(built[page['key']], variant=page['kind'], page=page['key'], h1=page['title'], lead=page['lead'], missing_note=page['missing_note'],
-                    other=round(built[page['pair']]['total'], 2),
+                    missing_title=page.get('missing_title', 'Нет в Петровиче'),
+                    other=round(built[page['pair']]['total'], 2) if page['pair'] else None,
                     pages=[dict(file=p['file'], label=p['label'], current=p['key'] == page['key']) for p in PAGES])
         payload = json.dumps(data, ensure_ascii=False).replace('</', '<\\/')
         (ROOT / 'docs' / page['file']).write_text(html.replace('/*DATA*/', payload), encoding='utf8')
